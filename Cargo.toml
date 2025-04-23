@@ -1,0 +1,12 @@
+[package]
+name = "mutate"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+argh = { version = "0.1.10" }
+thiserror = { version = "1.0" }
+anyhow = { version = "1.0" }
+rand = { version = "0.9.0" }
+bio = { version = "2.2.0" }
+flate2 = { version = "1.0" }
