@@ -8,7 +8,7 @@ Introduce random mutations to each read in the FASTQ file based on a specified m
 4. After all mutations are applied, save the modified read.
 
 # download releases
-[download release]()
+[download release](https://github.com/jingangdidi/mutate/releases/tag/v0.1.0)
 
 # usage
 ```
